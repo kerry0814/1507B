@@ -1,7 +1,10 @@
-工作区
+﻿工作区
 缓存区
 版本库
 
 git add .
 git commit -m ""
 git push
+
+
+合并
