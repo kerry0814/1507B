@@ -8,3 +8,7 @@ git push
 
 
 合并
+
+
+分支
+get branch 分支名
